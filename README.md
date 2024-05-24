@@ -2,7 +2,7 @@
 
 ## Overview
 
-*This project is a Telegram bot designed to process images using artificial intelligence. Built with Python, aiogram, and PostgreSQL, this bot allows users to submit photos which are then processed using advanced AI techniques. Users can manage their usage through a credit system, which supports purchases via Stripe.*
+*This project is a Telegram bot designed to process images using artificial intelligence. Built with Python, aiogram, and PostgreSQL, this bot allows users to submit photos which are then processed using AI techniques. Users can manage their usage through a credit system, which supports purchases via Stripe.*
 
 ## Features
 **Image Processing**: Users can send photos to the bot, which uses AI to analyze and process the images.
